@@ -5,4 +5,6 @@
 
  Day2 : JS Drum Kit ( https://ishanegi18.github.io/Drum-Kit-Js/ )
  
+ 
+  Day3 : Js Clock (  https://ishanegi18.github.io/Clock-Js/. )
 
